@@ -1,0 +1,10 @@
+##EQUAL
+x=10;
+y=20;
+z=10;
+print(x==z);
+print(x>y);
+print(x<z);
+print(x>=z);
+print(y<=x);
+print(x!=z);
